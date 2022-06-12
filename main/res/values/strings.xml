@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dartboard Scorekeeper</string>
+    <string name="play">Play</string>
+    <string name="nothing">No context</string>
+    <string name="points">501?</string>
+    <string name="split">Split the 11?</string>
+    <string name="player">Two players?</string>
+    <string name="thrCountLabel">First Throw:</string>
+    <string name="sc">Score: 301</string>
+    <string name="enterStr">Enter</string>
+    <string name="backStr">Back</string>
+    <string name="forwardStr">Forward</string>
+    <string name="finStr">Finished?</string>
+    <string name="yesStr">Yes</string>
+    <string name="noStr">No</string>
+    <string name="p1">Player 1</string>
+    <string name="p2">Player 2</string>
+</resources>
